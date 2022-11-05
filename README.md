@@ -1,4 +1,4 @@
-h1 REST API Project - Overview h1 <br>
+<h1> REST API Project - Overview <h1/> <br>
 For this project we created a Music Library API, following a CRUD REST API methodology. The Music Library stores information about artists, albums, and songs. It was one of the major backend projects we completed and included using technologies such as Node.js, Express, Sequelize, Mocha-Chai (for testing our asynchronous code), and well as Postman and MySQL Workbench to interact with out work and view and maniupulate the databases we created. CRUD (create, read, update, delete) operations can be performed on all of the sections (artists, albums, and songs). We also learned about the HTTP method equivalents (POST, GET, PATCH, DELETE) for the CRUD operations we were performing.
 
 Technologies
